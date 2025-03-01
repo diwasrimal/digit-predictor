@@ -2,6 +2,8 @@
 
 Trained using MNIST database imported from `tensorflow.keras.datasets.mnist`. So there is no dataset alongside the code in this repository.
 
+Video Demo: http://0x0.st/8mEw.mp4
+
 Using Python 3.9.6
 
 ## Instructions
